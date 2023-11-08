@@ -7,4 +7,7 @@ Flows already have some basic comments on how it works.
 
 ![image](https://github.com/Kedryn/TdarrFlows/assets/12759632/ed25d97b-4fda-4627-b977-eda8e399f87d)
 
+I've also added a flow "UnversalTranscode" that uses new library variables to specify maxres for scaling and tune for animation, without the need to have different copies of the flow as the previous Flow.
 
+
+![image](https://github.com/Kedryn/TdarrFlows/assets/12759632/03eeffd0-3610-412d-8a5d-16401943673c)
