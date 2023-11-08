@@ -53,7 +53,7 @@
         "y": 5.7346777205200965
       },
       "inputsDB": {
-        "variable": "args.userVariables.library.maxres",
+        "variable": "args.librarySettings.maxres",
         "value": "1080p"
       }
     },
@@ -68,7 +68,7 @@
         "y": 8.014884411932655
       },
       "inputsDB": {
-        "variable": "args.userVariables.library.maxres",
+        "variable": "args.librarySettings.maxres",
         "value": "720p"
       }
     },
@@ -98,7 +98,7 @@
         "y": -569.562370164923
       },
       "inputsDB": {
-        "variable": "maxres",
+        "variable": " args.librarySettings.maxres",
         "value": "1080p"
       }
     },
@@ -781,7 +781,7 @@
         "y": -650.6680876701695
       },
       "inputsDB": {
-        "variable": "maxres",
+        "variable": " args.librarySettings.maxres",
         "value": "720p"
       }
     },
@@ -832,7 +832,7 @@
         "y": 423.7720137800328
       },
       "inputsDB": {
-        "variable": "args.userVariables.library.tune",
+        "variable": "args.librarySettings.tune",
         "value": "animation"
       }
     }
